@@ -1,0 +1,116 @@
+h1,
+h2,
+p,
+a {
+  color: #eab2a0;
+  font-family: "Gluten", cursive;
+}
+
+body {
+  background-color: #2d4356;
+}
+
+ul {
+  border: 2px solid #2d4356;
+}
+
+li {
+  border: 2px solid #2d4356;
+}
+
+header {
+  border: 2px solid #2d4356;
+}
+
+#duck {
+  border: 2px solid#2d4356;
+}
+
+.text p {
+  border: 2px solid #2d4356;
+}
+
+.duck {
+  border: 2px solid #2d4356;
+}
+
+.grid-container {
+  border: 2px solid #2d4356;
+}
+
+footer {
+  border: 2px solid #2d4356;
+}
+
+nav {
+  border: solid #2d4356;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+}
+
+.nav-right {
+  width: 80%;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+#duck {
+  display: flex;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.grid-item {
+  border: solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+}
+
+.github {
+  width: 2%;
+}
+
+.formular {
+  color: #eab2a0;
+  background-color: #0d2a44;
+}
+
+.formular fieldset {
+  border: none;
+}
+.footergittext {
+  color: #eab2a0;
+}
+
+#proudly {
+  color: #eab2a0;
+}
+
+.newtonimg {
+}
+
+#formulaforcemassacceleration {
+  font-size: x-large;
+}
